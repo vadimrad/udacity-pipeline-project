@@ -8,7 +8,7 @@ The project's goal is to operationalize a machine learning microservice using ku
 
 ### Project Tasks
 
-Pproject's goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. Project's tasks:
+Project's goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. Project's tasks:
 * Test project code using linting;
 * Complete a Dockerfile to containerize this application;
 * Deploy containerized application using Docker and make a prediction;
@@ -16,8 +16,6 @@ Pproject's goal is to operationalize this working, machine learning microservice
 * Configure Kubernetes and create a Kubernetes cluster;
 * Deploy a container using Kubernetes and make a prediction;
 * Upload a complete Github repo with CircleCI to indicate that code has been tested.
-
-You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
 
 **The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
